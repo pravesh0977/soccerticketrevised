@@ -1,0 +1,158 @@
+body {
+    background: black;
+}
+.navbar {
+    font-size:24px;
+
+}
+.navbar li a{
+    text-decoration: none;
+}
+.navbar li {
+    text-decoration: none;
+    font-family: 'Anton', sans-serif;
+}
+#indexmain {
+    font-size: 40px;
+    background:white;
+}
+
+#indexmain img {
+    width:100%;
+}
+
+footer img {
+    max-height: 140px;
+    max-width: 140px;
+}
+
+footer p {
+    font-size: 24px;
+}
+
+footer a {
+    margin: 10px;
+}
+footer {
+    margin: 20px;
+}
+#indexmain {
+    margin:20px;
+}
+.sectionselector {
+    font-size: 30px;
+    text-align:center;
+}
+.sectionselector img {
+/*    text-align:center;*/
+    margin:0 auto;
+}
+.selectdiv {
+    font-size: 32px;
+    width:50%;
+    margin:0 auto;
+    text-align:center;
+}
+#ticketform {
+    text-align:center;
+}
+
+.printtickethere {
+    background:white;
+    color:blue;
+    font-size: 30px;
+    width: 50%;
+    color:black;
+    margin:0 auto;
+}
+
+.selectdiv h1, input, p, select {
+    margin-bottom:10px;
+    text-align:center;
+}
+
+.paymentform {
+ /*   width:50%;
+    background:red;*/
+}
+
+#editthispara {
+    font-size: 50px;
+}
+
+.confirmationtext h3{
+    font-size: 40px;
+    color: yellow;
+    margin:30px;
+    text-align:center;
+}
+.personaldetails {
+    font-size: 30px;
+    color: cyan;
+    margin:30px;
+    text-align:center;
+}
+.resultdiv {
+    font-size: 40px;
+    color: red;
+    margin: 40px;
+}
+.putteamshere li {
+    font-size: 24px;
+    color:aquamarine;
+}
+.putteamshere {
+    float:left;
+    width:40%;
+    
+}
+.cresturl {
+    height:200px;
+    width:200px;
+}
+.putplayershere li {
+    font-size: 24px;
+    color:black;
+    text-align:center;
+    font-weight: bold;
+
+}
+.putplayershere {
+    background: white;
+    width: 40%;
+    float:right;
+    height: 500px;
+    overflow: scroll;
+
+}
+.clearingdiv {
+    clear:both;
+}
+.eachplayer {
+    margin: 100px;
+
+}
+.dropdown {
+    font-size:24px;
+    color:orange;
+    background:white;
+}
+.dropdown li a{
+    font-size:16px;
+    color:orange;
+    background:white;
+}
+.listofteams:hover {
+    background: grey;
+    cursor:pointer;
+    width: 45%;
+    color:white
+}
+#instalinks p{
+    text-align: center;
+    font-size:30px;
+    color:white;
+}
+#instalinks {
+    text-align: center;
+}
