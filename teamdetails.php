@@ -122,12 +122,8 @@
           $connection = mysqli_connect('localhost','root','','soccerticketdb');
           $query="INSERT INTO favplayers (playername) VALUES ('$playername');";
           mysqli_query($connection, $query);
-
-          mysqli_close($connection);
-        
-        
-        
         }
+        mysqli_close($connection);
         ?>
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>

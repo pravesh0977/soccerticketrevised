@@ -94,7 +94,7 @@ footer {
 }
 .resultdiv {
     font-size: 40px;
-    color: red;
+    color: deepskyblue;
     margin: 40px;
 }
 .putteamshere li {
@@ -155,4 +155,17 @@ footer {
 }
 #instalinks {
     text-align: center;
+}
+.favoriteplayershere {
+    font-size: 30px;
+    margin: 0 auto;
+    color:floralwhite;
+    text-align:center;
+    background: #BB47FF;
+    width: 50%;
+}
+.favoriteplayershere li {
+    list-style-type: none;
+    font-style:italic;
+    margin-top: 5px;
 }

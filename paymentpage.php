@@ -30,7 +30,6 @@
             </label><br>
             <input type="submit" value="Submit Payment">
          </form>
-         <p id='editthispara'>edit this please</p>
          <?php require_once "footer.php";?>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
         <script src="js/bootstrap.min.js"></script>
